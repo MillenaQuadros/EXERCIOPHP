@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(91, 11, 172);    
+}
+
+form {
+    border: 2px solid #0449a3;
+    padding: 20px;
+    border-radius: 10px ;
+}
